@@ -1,0 +1,16 @@
+{
+    "name": "Encuestas",
+    "short_name": "Encuestas",
+    "description": "Sistema de encuestas",
+    "lang": "es-ES",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#3698e3",
+    "icons": [
+      {
+        "src": "images/512.ico",
+        "sizes": "512x512",
+        "type": "image/x-icon"
+      }
+    ]
+  }
